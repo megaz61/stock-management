@@ -1,4 +1,3 @@
-route web:
 <?php
 
 use Illuminate\Support\Facades\Route;
